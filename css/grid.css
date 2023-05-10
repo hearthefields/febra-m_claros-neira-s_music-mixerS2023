@@ -1,0 +1,71 @@
+/* 
+    CSS Guide 
+
+    1.  General Grid Styles
+        Utility Classes
+    2.  Mobile Grid
+    3.  Tablet Grid
+    4.  Desktop Grid
+    5.  XL Grid
+
+ */
+
+
+ /* 1. ---General Grid Styles--- */
+
+html {
+  box-sizing: border-box; 
+}
+
+/* The CSS rule *, *::before, *::after { box-sizing: inherit; } selects all elements (*), as well as their ::before and ::after pseudo-elements, and sets their box-sizing property to inherit.
+
+The box-sizing property determines how an element's total width and height is calculated, and can have one of three values: content-box, border-box, or inherit.
+
+By setting box-sizing: inherit, the selected elements inherit the box-sizing property value from their parent element. This can be useful for maintaining consistent box-sizing behavior across an entire web page. */
+
+*, *::before, *::after {
+  box-sizing: inherit; 
+}
+/* ---Utility Classes--- */
+
+.hidden {
+   display: none;
+}
+
+.box {
+   background-color: powderblue;
+   color: rgb(27, 27, 27);
+   border-radius: 5px;
+   padding: 20px;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom:10px;
+ }
+
+/* 2. ---Mobile Library Grid Styles--- */
+
+/*-- No media queries for mobile --*/
+
+/* 3. ---Tablet Library Grid Styles--- */
+
+@media screen and (min-width: 768px) {
+
+
+
+}
+
+/* 4. ---Desktop Library Grid Styles--- */
+
+@media screen and (min-width: 1200px) {
+
+
+
+}
+
+/* 5. ---X-Large Desktop Library Grid Styles--- */
+
+@media screen and (min-width: 1920px) { 
+
+
+
+}
