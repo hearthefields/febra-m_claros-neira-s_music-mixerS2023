@@ -1,4 +1,4 @@
-# Multimedia Authoring - Music Mixer S2023 
+# Aristocratic Cats - Music Mixer S2023 
 
 Welcome to our Music Mixer project! The main intent behind this collaboration was to research, experiment, design, and build a multimedia application using design and motion tools, HTML, CSS, and JavaScript.
 
@@ -22,6 +22,15 @@ We welcome contributions to enhance our Music Mixer project. To contribute, plea
 
 1. Our [Pinterest](https://pin.it/1KBdoNk) Board (gathering references phase)
 2. Our [Adobe XD](https://xd.adobe.com/view/5c24f15f-3d61-4be3-ba4a-79abf96ee6d9-0977/) Board (organising gathered references phase)
+3. The [Magical Parallax Tutorial](https://www.youtube.com/watch?v=Yo3j_Dx4u7c&ab_channel=TrueCoder) which we hope to recreate for our page (wish us luck!)
+
+  > <samp>Other relevant tutorials we watched to get an initial understanding of Drag & Drop in JS:</samp>
+  > * [CodingLab](https://www.youtube.com/watch?v=vJn5_SytV_U&ab_channel=CodingLab)
+  > * [Code with Ania Kubów](https://www.youtube.com/watch?v=QCnZbK7vzSQ&ab_channel=CodewithAniaKub%C3%B3w)
+  > * [CodingNepal](https://www.youtube.com/watch?v=9HUlUnM3UG8&ab_channel=CodingNepal)
+  > * [Coding Artist](https://www.youtube.com/watch?v=b13NSWyQ0tw&ab_channel=CodingArtist)
+  > * [CodingDesign](https://www.youtube.com/watch?v=MK9RvvXkLiY&ab_channel=CodingDesign)
+
 
 ## Features
 
