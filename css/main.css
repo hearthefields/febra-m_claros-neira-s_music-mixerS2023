@@ -8,38 +8,45 @@
 
  /* 1. ---General Styles--- */
 
- * {
-   border: none;
-   padding: 0;
-   margin: 0;
-   box-sizing: border-box; 
-}
+    body {
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Pathway Extreme', sans-serif;
+        text-align: center;
+        background: rgb(194,140,169);
+        background: radial-gradient(circle, rgba(194,140,169,1) 0%, rgba(89,67,92,1) 100%);
+    }
 
-.hidden { display: none; }
+    img, embed, object, video, picture {
+        max-width: 100%;
+    }
 
+    p, h1, h2, h3, h4, h5 {
+        margin: 0px;
+        padding: 0px;
+    }
 
-body {
-   margin: 0px;
-   padding: 0px;
-}
+    a {
+        text-decoration: none;
+        transition: all .5s ease-in-out;
+    }
 
-/* ---General rules - scales images, videos to size of container--- */
-img, embed, object, video, picture {
-   max-width: 100%; 
- }
+    input, textarea {
+        display: block;
+        margin: 0px;
+        padding: 0px;
+    }
 
-p, h1, h2, h3, h4, h5 {
-   margin: 0px; 
-   padding: 0px;
-}
+    section h2, section h3, section p {
+        padding-left: 15px;
+    }
 
-a {
-   text-decoration: none;
-   transition: all .5s ease-in-out;
-}
+    .spacer {
+        margin-top: 60px;
+    }
 
-input, textarea {
-   display: block;
-   margin: 0;
-   padding: 0;
-}
+    .txt-spacer {
+        margin-top: 30px;
+    }
+
+     /* ---End of General Styles--- */

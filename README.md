@@ -18,6 +18,11 @@ We welcome contributions to enhance our Music Mixer project. To contribute, plea
 
 > On a lighthearted note, we started off with the idea of Renaissance cats. Eventually, it developed into cats wearing classical costumes with the music complementing their respective attire. 
 
+## Relevant Links for Our Research & Inspiration
+
+1. Our [Pinterest](https://pin.it/1KBdoNk) Board (gathering references phase)
+2. Our [Adobe XD](https://xd.adobe.com/view/5c24f15f-3d61-4be3-ba4a-79abf96ee6d9-0977/) Board (organising gathered references phase)
+
 ## Features
 
 * `Drag and drop functionality`: Load audio clips by simply dragging and dropping them onto the application interface.
